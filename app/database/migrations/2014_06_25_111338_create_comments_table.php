@@ -17,8 +17,8 @@ class CreateCommentsTable extends Migration {
 			$table->increments('id');
 
 			// Add text and author fields
+			$table->string('title');
 			$table->string('text');
-			$table->string('author');
 			$table->timestamps();
 		});
 	}
