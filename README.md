@@ -5,5 +5,3 @@ Laravel-based blog using Angularjs, built following <a href="scotch.io/tutorials
 * Create login so only I can post and others can comment.
 * Add sidebars for navigation of previouis posts
 * Spruce it up
-~                                                                                                                             
-~                                                                                                     
